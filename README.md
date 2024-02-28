@@ -4,12 +4,15 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chauhangarv&label=Profile%20views&color=0e75b6&style=flat" alt="chauhangarv" /> </p>
+<br>
 
+- 👨‍🏭 I’m currently pursuing B.Tech - M.Tech(Integrated) in Computer Science and Cyber Security, NFSU Delhi
 - 🌱 I’m currently learning **ReactJS, MERN Stack, Python**
 
 - 👨‍💻 All of my projects are available at [github.com/chauhangarv](github.com/chauhangarv)
-
+<br>
+ 🕵 Take a look at my repositories and let's get in touch!
+<br><br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/garv-chauhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="garv-chauhan" height="30" width="40" /></a>
