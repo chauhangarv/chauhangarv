@@ -1,6 +1,6 @@
 ![logo](https://github.com/chauhangarv/chauhangarv/blob/main/d14112d-Cloudsmith-Integrations-Banner-GitHub.png)
 <h1 align="center">Hi 👋, I'm Garv Chauhan</h1>
-<h3 align="center">🎓Sophomore Engineering Student | Aspiring Innovator | Tech Enthusiast</h3>
+<h3 align="center">🎓Junior Engineering Student | Aspiring Innovator | Tech Enthusiast</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
